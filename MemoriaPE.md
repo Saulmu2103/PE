@@ -24,7 +24,7 @@ En la tercera fase se verificará el funcionamiento global del proyecto mediante
 
 - **INTRODUCIR EXPLICACION SOBRE PROCESADOR Y PERIFERICOS**
 
-![REMOVE](/home/samur/PE/PE/IMAGENES/img1.png)
+![REMOVE](IMAGENES/img1.png)
 
 
 
@@ -44,7 +44,7 @@ En la tercera fase se verificará el funcionamiento global del proyecto mediante
 
 Incluir lo siguiente:
 
-![REMOVE](/home/samur/PE/PE/IMAGENES/img2.png)
+![REMOVE](IMAGENES/img2.png)
 
 ## **CONCLUSIONES**
 
