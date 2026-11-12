@@ -25,7 +25,9 @@ También hemos estructurado el proyecto en tres fases y distribuido las tareas c
 
 Hoy nos hemos reunido los miembros del grupo para comenzar con la elaboración de la memoria del proyecto. Durante la reunión, hemos confirmado que el material solicitado ya está disponible para su recogida, por lo que podemos iniciar las tareas A, B y C correspondientes a la primera fase, descritas en la memoria del proyecto.
 
+Hemos podido acceder a Sentilo, usando la aplicación Docker Desktop. Tambien hemos creado un nuevo "Provider" y "Components", para empezar a programar. 
+
 ### **INFORME DEL DÍA XX/XX/XX**
 
-Prova de edició
+
 
