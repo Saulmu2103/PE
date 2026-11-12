@@ -7,8 +7,8 @@
 | INTEGRANTE | TAREA                | POR HACER | EN CURSO | COMPLETADA | BLOQUEADA | VERIFICADA |
 | :--------- | :------------------- | :-------: | -------- | ---------- | --------- | ---------- |
 | SAÜL       | MONTAJE              |           | X        |            |           |            |
-| PERE       | PROGRAMACIÓN ESP-32  |           | X        |            |           |            |
-| SEBASTIAN  | PROGRAMACIÓN SENTILO |           | X        |            |           |            |
+| SEBASTIAN  | PROGRAMACIÓN ESP-32  |           | X        |            |           |            |
+| PERE       | PROGRAMACIÓN SENTILO |           | X        |            |           |            |
 |            |                      |           |          |            |           |            |
 
 ## **INFORMES DE SEGUIMIENTO**
