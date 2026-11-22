@@ -37,8 +37,15 @@ En la tercera fase se verificará el funcionamiento global del proyecto mediante
 **Tarea C:** Desarrollo del software *Sentilo*, incluyendo la creación y configuración de los sensores y las alertas correspondientes. Definición de la estrategia de tratamiento de los datos recibidos, así como el desarrollo y la documentación de los cálculos necesarios para su correcto procesamiento.
 
 - **INTRODUCIR EXPLICACION SOBRE SENTILO**
+El software **Sentilo** es una plataforma **Open Source** orientada al entorno **IoT (Internet of Things)** que permite gestionar, centralizar y visualizar datos procedentes de dispositivos y sensores distribuidos. Ofrece acceso a los datos mediante una interfaz web (**Web Access**) y una API basada en servicios **RESTful**, facilitando la comunicación entre dispositivos y aplicaciones. También permite gestionar información de geolocalización de los sensores, lo que facilita su ubicación y el seguimiento de los datos recogidos. En este proyecto, Sentilo se utiliza como servidor central para recibir, almacenar y gestionar los datos enviados por una placa ESP32-S3 y sus sensores.
 
+A continuación, adjuntamos los proveedores, componentes y sensores que hemos creado en Sentilo y que utilizaremos durante el proyecto:
 
+![REMOVE](IMAGENES/SentiloProviders.JPG)
+
+![REMOVE](IMAGENES/SentiloComponents.JPG)
+
+![REMOVE](IMAGENES/SentiloSensors.JPG)
 
 ## **INTEGRACIÓN DE LAS TRES FASES**
 
